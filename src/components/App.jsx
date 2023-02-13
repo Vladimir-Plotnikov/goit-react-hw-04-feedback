@@ -1,4 +1,3 @@
-// import React, { Component } from 'react';
 import { useState } from 'react';
 import Feedback from './Feedback/Feedback';
 import Statistics from './Statistics/Statistics';
